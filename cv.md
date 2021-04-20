@@ -29,6 +29,7 @@ In general, I keen on new technologies and approaches to develop software. It mo
 * Tools:
     - WebStorm
     - Visual Studio Code
+    - XCode
 
 ## Education ##
 Belarusian State University of Informatics and Radioelectronics    
