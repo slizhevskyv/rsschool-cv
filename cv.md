@@ -26,6 +26,9 @@ In general, I keen on new technologies and approaches to develop software. It mo
 * Cross-platform technologies:
     - Cordova
     - Electron
+* Tools:
+    - WebStorm
+    - Visual Studio Code
 
 ## Education ##
 Belarusian State University of Informatics and Radioelectronics    
